@@ -1,6 +1,6 @@
 # This is the source code for my blog
 
-which is located at [mojofunk.github.io](mojofunk.github.io)
+Which is located at [mojofunk.github.io](http://mojofunk.github.io)
 
 # License
 
