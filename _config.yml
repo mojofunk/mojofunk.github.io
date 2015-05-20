@@ -1,0 +1,12 @@
+# Site settings
+title: Tim Mayberry's Technical Blog
+email: mojofunk@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A collection of technical information related to programming and application design.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mojofunk.github.io" # the base hostname & protocol for your site
+github_username: mojofunk
+highlighter: pygments
+
+# Build settings
+markdown: kramdown
