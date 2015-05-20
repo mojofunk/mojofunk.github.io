@@ -16,7 +16,7 @@ http://github.com/mojofunk/mojofunk.github.io)
 
 <!--more-->
 
-T preview the blog locally you need to install jekyll, I followed the setup
+To preview the blog locally you need to install jekyll, I followed the setup
 instructions on [using jekyll with pages](
 https://help.github.com/articles/using-jekyll-with-pages) and used
 [bundler](http://bundler.io) as suggested by the instructions so that the
