@@ -67,7 +67,8 @@ $ bundle exec jekyll serve
 
 The local jekyll instance should be now be accessible via a web browser at
 [localhost:4000](localhost:4000) you can also pass the --watch flag so jekyll
-will automatically update the site whenever a file is updated.
+will automatically update the site whenever a file is updated(although I think
+this is now the default in newer versions of jekyll)
 
 # Creating the repository
 
