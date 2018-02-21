@@ -183,7 +183,12 @@ body {
 .reveal pre.stretch code {
   height: 100%;
   max-height: 100%;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  }
+
+.reveal section pre code {
+  font-size: 0.7em !important;
+  }
 
 /*********************************************
  * CONTROLS
